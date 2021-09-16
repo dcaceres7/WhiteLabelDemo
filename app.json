@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WhiteLabelDemo",
+    "slug": "WhiteLabelDemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WhiteLabelDemo"
+}
